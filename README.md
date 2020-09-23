@@ -34,3 +34,7 @@ The Robot answer the following questions:
   6. How can you go from the current room to the elevator?
   7. How many books do you estimate to find in the next 2 minutes?
   8. What is the probability of finding a table in a room without books but that has at least one chair?
+
+
+Download the virtual machine with the complete setup( with the ROS) in 
+http://www.di.ubi.pt/~lfbaa/ia_vm2019.zip
