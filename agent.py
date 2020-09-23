@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf8
-# Artificial Intelligence, UBI 2019-20
-# Modified by:Rodrigo Saraiva a39441
+# USER:Rodrigo Saraiva 
 import datetime
 import rospy
 from decimal import Decimal
