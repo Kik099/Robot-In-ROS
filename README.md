@@ -2,6 +2,7 @@
 
 This project is about the development of a robotic agent that travels in a world, finds objects and answers questions that are asked by the user. This world is a floor in a hotel.
 The robot is inside a simulator called Stage, and Stage works in ROS, which is the Robot Operating System. 
+If you run the command ./go.sh in a terminal, it will open the Stage and allow you to drive the robot inside the world.
 
 
   
