@@ -38,3 +38,5 @@ The Robot answer the following questions:
 
 Download the virtual machine with the complete setup( with the ROS) in 
 http://www.di.ubi.pt/~lfbaa/ia_vm2019.zip
+
+Agenty.py is the file that contains the main
