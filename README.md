@@ -7,14 +7,21 @@ If you run the command ./go.sh in a terminal, it will open the Stage and allow y
 
   
 Possible categories are the following: bed, book, chair, computer, door, per- son, table. Note that other categories might be present. The categories names’ are always a single word.
+
 Individual objects receive names that always include the category first, such as: person_joe, book_alice_in_wonderland, table_table1, computer_windows2.
 There are five room types, all of them can have tables and chairs:
+
 • if the room contains one individual bed, it is a single room;
+
 • if the room contains two individual beds, it is a double room;
+
 • if there are beds and an internal door (that connects to another room) then it is a suite;
+
 • if the room contains only one table and several chairs it is a meeting room
+
 • rooms that are none of the above are called generic rooms
- 
+
+
 We say that a room is occupied if there is at least one person in it.
 
 
